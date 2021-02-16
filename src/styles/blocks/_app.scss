@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+}
+.app__select {
+  width: 50%;
+  border-right: 1px solid #7d7d7d;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+.app__view {
+  width: 50%;
+  box-sizing: border-box;
+  padding-left: 20px;
+}
